@@ -9,13 +9,15 @@
   z-index: 0;
 }
 
-.nav {
+.nav, .nav a  {
   position: relative;
   z-index: 1;
+  font-size: 20px;
+  color: red;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #000;
   min-height: 50vh;
   display: flex;
   flex-direction: column;
