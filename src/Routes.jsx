@@ -6,7 +6,7 @@ import Projeto from './views/projeto/Projeto'
 import Etapas from './views/etapas/Etapas'
 import Componentes from './views/componentes/Componentes'
 import Robocup from './views/robocup/Robocup'
-//import Fotos from './views/fotos/Fotos';
+import Fotos from './views/fotos/Fotos';
 
 const Routes = () => {
 
@@ -18,7 +18,7 @@ const Routes = () => {
       <Route path="/etapas" component={Etapas} />
       <Route path="/componentes" component={Componentes} />
       <Route path="/robocup" component={Robocup} />
-      {/* <Route path="/fotos" component={Fotos} /> */}
+      <Route path="/fotos" component={Fotos} />
       {/* <Route path="/game" component={Game} /> */}
     </Switch>
 

@@ -7,20 +7,20 @@ import Header from '../../components/header/Header';
 
 // imagens
 
-import imageA from '../../assets/images/comp1';
-import imageB from '../../assets/images/comp2';
-import imageC from '../../assets/images/comp3';
-import imageD from '../../assets/images/comp4';
-import imageE from '../../assets/images/comp5';
-import imageF from '../../assets/images/comp6';
-import imageG from '../../assets/images/robo1';
-import imageH from '../../assets/images/robo2';
-import imageI from '../../assets/images/robo3';
-import imageJ from '../../assets/images/robo4';
-import imageK from '../../assets/images/robo5';
-import imageL from '../../assets/images/robo6';
-import imageM from '../../assets/images/robo7';
-import imageN from '../../assets/images/robo8';
+import imageA from '../../assets/images/comp1.jpeg';
+import imageB from '../../assets/images/comp2.jpeg';
+import imageC from '../../assets/images/comp3.jpeg';
+import imageD from '../../assets/images/comp4.jpeg';
+import imageE from '../../assets/images/comp5.jpeg';
+import imageF from '../../assets/images/comp6.jpeg';
+import imageG from '../../assets/images/robo1.jpeg';
+import imageH from '../../assets/images/robo2.jpeg';
+import imageI from '../../assets/images/robo3.jpeg';
+import imageJ from '../../assets/images/robo4.jpeg';
+import imageK from '../../assets/images/robo5.jpeg';
+import imageL from '../../assets/images/robo6.jpeg';
+import imageM from '../../assets/images/robo7.jpeg';
+import imageN from '../../assets/images/robo8.jpeg';
 
 class Fotos extends Component {
 
