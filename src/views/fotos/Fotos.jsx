@@ -60,9 +60,9 @@ class Fotos extends Component {
   
         <Header />
 
-        <div id="content">
+        <div id="content_fotos">
 
-          <h1>Qualquer fucking galeria de fotos</h1>
+          <h1>Galeria de fotos</h1>
 
           <div className="box-slider">
           
@@ -94,7 +94,6 @@ class Fotos extends Component {
     );
 
   }
-
 
 }
 

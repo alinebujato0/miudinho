@@ -11,7 +11,7 @@ const Home = () => {
 
       <Header />
 
-      <div id="content">
+      <div id="content_home">
       
         <p>A RoboCup é uma competição realizada pela FIAP (FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA) proposta aos alunos dos 1ºs anos do curso Sistemas de Informação, cujo objetivo é construir robôs para estourar o balão do seu adversário e manter o próprio balão intacto.</p>
         

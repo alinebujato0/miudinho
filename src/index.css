@@ -17,10 +17,34 @@ code {
   text-align: center; 
 }
 
-#content {
-  padding: 0 15px;
+#content_home {
+  font-size: 25px;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.5;
+  margin-top: 100px;
 }
 
+#content_projeto {
+  font-size: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+#content_etapas, #content_robocup {
+  font-size: 15px;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+#content_etapas p, #content_robocup p{
+  text-align: initial;
+  line-height: 1.5;
+}
 .nav a {
   color: #fff;
   text-decoration: none;

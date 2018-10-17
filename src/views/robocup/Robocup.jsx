@@ -11,7 +11,7 @@ const Robocup = () => {
 
       <Header />
 
-      <div id="content">
+      <div id="content_robocup">
 
         <h2>O que é a RoboCup?</h2>
         <p>É a competição mais antiga da FIAP que atinge todos os alunos dos primeiros anos de Sistemas de Informação. Seu principal objetivo é estourar o balão que o robô do adversário carrega. Para isso, todas as máquinas possuem armas variadas em seu corpo. Mas a competição também exige o funcionamento pleno do robô: após estourar o balão do adversário, ele deve recolher sua a arma, só assim é considerado o vencedor do duelo.</p>
@@ -26,9 +26,9 @@ const Robocup = () => {
           - Tempo máximo para a arma ficar ativa é de 15 segundos, após isso deverá ser totalmente recolhida dentro do perímetro do robô.
         </p>
         <h2>Informações gerais</h2>
-        <p>- Eliminatórias: FIAP Campus Aclimação.</p> <br />
-        <p>- 1º, 2º e 3º lugar: NEXT Casa das Caldeiras.</p> <br />
-        <p>- A competição ocorre normalmente no mês de outubro.</p>
+        <p>- Eliminatórias: FIAP Campus Aclimação. <br />
+        - 1º, 2º e 3º lugar: NEXT Casa das Caldeiras. <br />
+        - A competição ocorre normalmente no mês de outubro. </p>
           
       </div>
 
