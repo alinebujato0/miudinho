@@ -12,15 +12,14 @@ import imageB from '../../assets/images/comp2.jpeg';
 import imageC from '../../assets/images/comp3.jpeg';
 import imageD from '../../assets/images/comp4.jpeg';
 import imageE from '../../assets/images/comp5.jpeg';
-import imageF from '../../assets/images/comp6.jpeg';
-import imageG from '../../assets/images/robo1.jpeg';
-import imageH from '../../assets/images/robo2.jpeg';
-import imageI from '../../assets/images/robo3.jpeg';
-import imageJ from '../../assets/images/robo4.jpeg';
-import imageK from '../../assets/images/robo5.jpeg';
-import imageL from '../../assets/images/robo6.jpeg';
-import imageM from '../../assets/images/robo7.jpeg';
-import imageN from '../../assets/images/robo8.jpeg';
+import imageF from '../../assets/images/robo1.jpeg';
+import imageG from '../../assets/images/robo2.jpeg';
+import imageH from '../../assets/images/robo3.jpeg';
+import imageI from '../../assets/images/robo4.jpeg';
+import imageJ from '../../assets/images/robo5.jpeg';
+import imageK from '../../assets/images/robo6.jpeg';
+import imageL from '../../assets/images/robo7.jpeg';
+import imageM from '../../assets/images/robo8.jpeg';
 
 class Fotos extends Component {
 
@@ -81,7 +80,6 @@ class Fotos extends Component {
               <div><img src={imageK} height="200" alt="Blabla" /></div>
               <div><img src={imageL} height="200" alt="Blabla" /></div>
               <div><img src={imageM} height="200" alt="Blabla" /></div>
-              <div><img src={imageN} height="200" alt="Blabla" /></div>
 
             </Slider>
 
